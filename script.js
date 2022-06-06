@@ -41,3 +41,5 @@ fetch('https://photos-api-36ptw.ondigitalocean.app/pets')
         portfolio.append(img);
     })
   });
+
+  
