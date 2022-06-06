@@ -309,7 +309,7 @@ input[type=password] {
     max-width: 100px;
     margin: 0 auto;
     margin-top: 170px;
-    margin-bottom: 200px;
+    margin-bottom: 150px;
     
 }
 
@@ -339,6 +339,13 @@ button:hover {
     position: relative;
 }
 
+.puppygenereator{
+    max-width: 200px;
+    margin: 0 auto;
+}
+#demo{
+    margin: 0 auto;
+}
 
 .container {
     padding: 16px;
@@ -439,7 +446,6 @@ span.psw {
 
 }
 
-/*/*display*/
 
 .header-section{
     max-width: 300px;
